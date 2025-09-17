@@ -15,7 +15,7 @@ Mon objectif : utiliser les données pour améliorer la prévention, accompagner
 Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.  
 ➡️ Approche orientée prévention et vieillissement actif.  
 
-### [2. Santé des soignants]
+### [2. Santé des soignants] https://github.com/Antoineb-data/Sante-des-soignants
 Exploration des données sur la santé au travail des professionnels de santé.  
 ➡️ Focus sur les conditions de travail, les risques TMS .  
 
