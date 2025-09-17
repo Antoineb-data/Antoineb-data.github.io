@@ -1,6 +1,6 @@
 # Bienvenue 👋  
 
-Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir **, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
+Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir**, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
 
 👉 Ce site est mon **portfolio** : une vitrine de mes projets, de mon expertise et de la démarche en data appliquée à la prévention en santé que je souhaite porter.  
 
