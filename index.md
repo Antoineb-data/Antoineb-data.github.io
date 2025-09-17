@@ -2,11 +2,11 @@
 
 Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir **, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
 
-👉 Ce site est mon **portfolio** : une vitrine de mes projets, de mon expertise et de ma démarche data.  
+👉 Ce site est mon **portfolio** : une vitrine de mes projets, de mon expertise et de la démarche en data appliquée à la prévention en santé que je souhaite porter.  
 
 ---
 
-## 🚀 Projets en avant  
+## Projets : 
 
 ### [HALE : Healthy Ageing & Life Expectancy]  
 Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.  
