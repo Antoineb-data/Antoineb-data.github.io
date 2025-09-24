@@ -23,9 +23,9 @@ Exploration des données sur la santé au travail des professionnels de santé.
 ---
 
 ## 🧰 Compétences mobilisées
-- **Analyse & traitement de données** : SQL, Python (Pandas, Matplotlib), Excel
+- **Analyse & traitement de données** : SQL, Python, Excel
 - **Visualisation & reporting** : Power BI, google slides  
-- **Méthodologie** : structuration projet data, recommandations stratégiques  
+- **Méthodologie** : structuration projet data, recommandations
 - **Expertise métier** : data analyse, ergonomie, prévention des TMS 
 
 ---
@@ -40,4 +40,4 @@ J’ai suivi une formation intensive en data (SQL, Python, Power BI, GitHub)
 
 ---
 
-👉 Retrouvez la version en ligne de ce portfolio ici : **(https://github.com/Antoineb-data/Antoineb-data.github.io/tree/main)**
+
