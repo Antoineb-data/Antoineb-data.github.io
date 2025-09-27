@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="AB fond link" src="https://github.com/user-attachments/assets/e2765429-e18b-4e3e-9840-a2e96c487038" />
+
 # Bienvenue 👋  
 
 Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir**, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
