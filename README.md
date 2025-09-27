@@ -1,4 +1,5 @@
 # Antoineb-data.github.io
+<img width="1584" height="396" alt="AB fond link" src="https://github.com/user-attachments/assets/d28bb6bb-3ce3-4772-8126-45c370962329" />
 
 # Portfolio Data Analyst - Santé & Prévention  
 
@@ -32,11 +33,11 @@ Exploration des données sur la santé au travail des professionnels de santé.
 
 ## 👨‍💻 À propos
 Après plus de 20 ans comme kinésithérapeute du travail spécialisé en ergonomie, j’ai élargi mon champ d’action à la **data analyse**.  
-J’ai suivi une formation intensive en data (SQL, Python, Power BI, GitHub) 
+J’ai suivi une formation intensive en data (SQL, Python, Power BI) 
 
-💡 Mon profil hybride terrain + data me permet de transformer des données en leviers concrets de prévention.  
 
-📫 **Contactez-moi** : [LinkedIn] | [Email]
+
+📫 **Contact** : [LinkedIn] | [Email]
 
 ---
 
