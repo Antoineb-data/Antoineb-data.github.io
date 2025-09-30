@@ -8,7 +8,7 @@ Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention
 
 ## Projets : 
 
-### [HALE : Healthy Ageing & Life Expectancy] ( https://github.com/Antoineb-data/HALE-Analyse-dataset-OMS)
+### [HALE : Healthy Ageing & Life Expectancy] (https://github.com/Antoineb-data/HALE-Analyse-dataset-OMS)
 Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.  
 ➡️ Prévention & vieillissement actif.  
 
