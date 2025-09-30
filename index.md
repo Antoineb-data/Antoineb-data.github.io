@@ -1,4 +1,6 @@
-# Bienvenue 👋  
+# Portfolio Data Analyst en santé - AntoineB
+<img width="1584" height="396" alt="494755261-d28bb6bb-3ce3-4772-8126-45c370962329" src="https://github.com/user-attachments/assets/3d01c52d-544c-4858-a239-a3f4aa33a3c2" />
+
 
 Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir**, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
 
