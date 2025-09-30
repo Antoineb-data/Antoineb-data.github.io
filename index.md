@@ -16,7 +16,8 @@ Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.
 ➡️ Prévention & vieillissement actif.  
 
 
-## [Santé des soignants] a venir
+## [Santé des soignants] 
+https://github.com/Antoineb-data/Sante-des-soignants
 Étude sur les conditions de travail et la santé au travail des soignants.  
 ➡️ Risques TMS et politiques publiques.  
 
