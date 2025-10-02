@@ -21,7 +21,7 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 ---
 
 <p align="center">
-  <a href="https://github.com/TonPseudo/HALE" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+  <a href="https://github.com/Antoineb-data/HALE" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
     🚀 Voir le projet HALE sur GitHub
   </a>
 </p>
