@@ -1,4 +1,5 @@
-[Accueil](/) | [À propos](/about)
+[Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
+
 
 ---
 
