@@ -1,9 +1,6 @@
 [Accueil](/) | [À propos](/about)
 
 ---
-layout: default
-title: Accueil
----
 
 # Bienvenue
 
