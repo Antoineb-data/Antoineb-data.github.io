@@ -11,7 +11,7 @@ Voici quelques-uns de mes projets récents en prévention des TMS et analyse de 
 
 
 
-## [HALE : Healthy Ageing & Life Expectancy] 
+## HALE : Healthy Ageing & Life Expectancy
 <p align="center">
   <a href="/hale" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
     🚀 Voir le projet HALE
@@ -24,8 +24,8 @@ Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.
 
 
 
-## [Santé des soignants] 
-(https://github.com/Antoineb-data/Sante-des-soignants)
+## Santé des soignants
+
 
 
 
