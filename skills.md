@@ -16,6 +16,8 @@ title: Compétences
 - Excel et SQL pour traitement et analyse de données  
 - Power BI pour tableaux de bord et visualisations  
 - Utilisation des données pour recommandations concrètes
+![skillss](https://github.com/user-attachments/assets/0b50ca12-cca8-4f9a-a774-a7f10e5cf30e)
+
 
 ## Transversal
 - Communication des résultats aux équipes terrain  
