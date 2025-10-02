@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compétences
+title: Bienvenue sur mon Portfolio ! 
 ---
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
