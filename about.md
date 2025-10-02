@@ -24,5 +24,5 @@ Mettre mes compétences de terrain et de data au service de la prévention en sa
 🎯 Éclairer les prises de décisions par des analyses de données claires et actionnables
 🎯 Développer des stratégies de prévention santé à impact positif grâce au levier de la data
 
-[À propos](/about)
+
 
