@@ -28,6 +28,11 @@ Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.
 
 
 ## Santé des soignants
+<!-- Lien vers le dossier -->
+<a href="chemin/vers/ton/dossier" style="display:inline-block; padding:10px 20px; background-color:green; color:white; text-decoration:none; border-radius:5px;">
+    Voir le dossier Santé des soignants
+</a>
+
 <img width="1080" height="700" alt="dat temps de travail" src="https://github.com/user-attachments/assets/6cbf52fb-91dc-4b99-8d07-befee4a42999" />
 
 
