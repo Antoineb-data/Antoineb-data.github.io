@@ -6,6 +6,7 @@ title: Compétences
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
 
 # Compétences
+<img width="1080" height="1080" alt="Compétences" src="https://github.com/user-attachments/assets/e118ce3e-209f-49c4-822d-23741f977c6b" />
 
 ## Prévention et kinésithérapie
 - Kinésithérapie du travail spécialisée en TMS  
@@ -16,7 +17,8 @@ title: Compétences
 - Excel et SQL pour traitement et analyse de données  
 - Power BI pour tableaux de bord et visualisations  
 - Utilisation des données pour recommandations concrètes
-![skillss](https://github.com/user-attachments/assets/0b50ca12-cca8-4f9a-a774-a7f10e5cf30e)
+
+
 
 
 ## Transversal
