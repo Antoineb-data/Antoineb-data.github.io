@@ -2,9 +2,7 @@
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
 
-# ProjetAnalyse des TMS 
 
-Le projet **MP - Analyse des pathologies musculo squelettiques** est un projet d’analyse de données en santé publique visant à :  
 
 # Projet : Maladies Professionnelles (MP) 📊
 
