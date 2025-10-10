@@ -42,8 +42,13 @@ Ce projet combine **données officielles**, **analyse statistique** et **visuali
 ## 📈 Résultats clés
 
 - Identification des **métiers à forte exposition aux TMS**.  
-- Visualisation des **tendances par région et secteur**.  
+- <img width="1258" height="727" alt="Capture d’écran 2025-10-10 161847" src="https://github.com/user-attachments/assets/f32ae458-5931-4aa0-b531-0ecb2278f1b8" />
+
+- Visualisation des **tendances par région anatomique**.
+-  <img width="1665" height="865" alt="Capture d’écran 2025-10-10 161640" src="https://github.com/user-attachments/assets/7d869b5e-6b48-45d7-8b19-228334ff0244" />
+
 - Recommandations pour **prévention ciblée** et **politiques de santé**.
+<img width="1262" height="735" alt="Capture d’écran 2025-10-10 161913" src="https://github.com/user-attachments/assets/f65b1437-0d0a-4dfd-9a1d-010ec61df450" />
 
 ---
 
