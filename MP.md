@@ -1,7 +1,4 @@
----
-layout: default
-title: Projet MP
----
+
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
 
@@ -68,13 +65,13 @@ Ce projet combine **données officielles**, **analyse statistique** et **visuali
 ---
 
 <p align="center">
-  <i>Ce projet illustre ma capacité à combiner expertise terrain en santé au travail et compétences en data analysis pour produire des recommandations concrètes et actionnables.</i>
+  <i>Ce projet illustre ma capacité à combiner expertise terrain en santé au travail et compétences en data analyse pour produire des recommandations concrètes et actionnables.</i>
 </p>
 
 ---
 
 <p align="center">
-  <a href="xxxxx" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+  <a href="https://github.com/Antoineb-data/Analyse-MP" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
     🚀 Voir le projet MP-TMS sur GitHub
   </a>
 </p>
