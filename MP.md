@@ -8,12 +8,6 @@ Le projet **MP - Analyse des pathologies musculo squelettiques** est un projet d
 
 # Projet : Maladies Professionnelles (MP) 📊
 
-<p align="center">
-  <a href="/MP" style="background-color:#28a745; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
-    🏥 Voir le projet Maladies Professionnelles
-  </a>
-</p>
-
 ---
 
 ## 🎯 Contexte
