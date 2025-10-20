@@ -33,7 +33,7 @@ Exploration des données sur la santé au travail des professionnels de santé.
 
 ## 👨‍💻 À propos
 Après plus de 20 ans comme kinésithérapeute du travail spécialisé en ergonomie, j’ai élargi mon champ d’action à la **data analyse**.  
-J’ai suivi une formation intensive en data (SQL, Python, Power BI) 
+J’ai suivi une formation intensive en data (SQL, Python, Power BI) et continue à developper des compétences en analyse de données.
 
 
 
