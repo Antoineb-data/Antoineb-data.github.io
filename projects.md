@@ -42,3 +42,5 @@ Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.
   </a>
 </p>
 
+<img width="1080" height="700" alt="astuces-2" src="https://github.com/user-attachments/assets/47c4f892-705a-4c08-b1ef-10aa303cd306" />
+
