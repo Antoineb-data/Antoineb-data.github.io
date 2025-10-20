@@ -38,7 +38,7 @@ Analyse de l’espérance de vie en bonne santé (HALE) et de ses déterminants.
 ## Analyse des MP en lien avec les TMS 
 <p align="center">
   <a href="/MP" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
-    🏥 Voir le projet Maladies Professionnelles
+    🏥 Voir le projet Analyse Maladies Professionnelles
   </a>
 </p>
 
