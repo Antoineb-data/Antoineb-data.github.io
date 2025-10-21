@@ -6,6 +6,7 @@
 #  À propos
 <p align="center">
 <img width="288" height="288" alt="photo profil" src="https://github.com/user-attachments/assets/6a789c6e-64ee-4196-8abb-f817f0ef9c13" />
+</p>
 
 <p align="center">
   Je suis Antoine, kinésithérapeute du travail et data analyst.
