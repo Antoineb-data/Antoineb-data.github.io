@@ -35,18 +35,27 @@ Ce projet s’inscrit dans une démarche de **prévention des risques profession
 
 ## 🛠️ Méthodologie
 
-1. **Extraction et nettoyage** des données avec Python / Pandas.  
+1. **Extraction et nettoyage** des données avec Excel/ Python / Pandas.  
 2. **Analyse exploratoire** statistiques descriptives, distribution des pathologies.  
 3. **Visualisation interactive** avec Power BI et Python.  
 4. **Synthèse et recommandations** actionnables pour les décideurs en santé au travail.
 
 ---
 ## Outils utilisés
+| Étape | Outil / langage |
+|:------|:----------------|
+| Préparation et nettoyage des données | **Python (Pandas)** / **Excel** |
+| Exploration et visualisation | **Power BI** |
+| Documentation et présentation | **Markdown / GitHub Pages** |
+---
+
+
+
 ---
 
 ## 📈 Résultats clés
 
-- Identification des **métiers à forte exposition aux TMS**.  
+- Identification des **métiers à forte exposition aux MP**.  
 - <img width="1200" height="550" alt="Capture d’écran 2025-10-10 161847" src="https://github.com/user-attachments/assets/f32ae458-5931-4aa0-b531-0ecb2278f1b8" />
 
 - Visualisation des **tendances par région anatomique**.
@@ -63,7 +72,15 @@ Ce projet s’inscrit dans une démarche de **prévention des risques profession
 - **Analyse Statistique & Visualisation** : Power BI, Matplotlib, Seaborn  
 - **Data pour la santé au travail** : synthèse des résultats, recommandations actionnables  
 
+---
+## 🩹 Mise en perspective
 
+Ce projet illustre comment l’analyse des données en santé au travail peut :
+- contribuer à **objectiver les risques professionnels**,  
+- alimenter la **décision en santé au travail**,  
+- et renforcer les politiques de **prévention ciblée** par secteur.
+
+En tant que **kinésithérapeute du travail formé à la data**, cette analyse m’a permis de relier des indicateurs chiffrés à des réalités de terrain.
 ---
 
 <p align="center">
