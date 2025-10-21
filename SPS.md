@@ -1,3 +1,7 @@
+---
+title: Projet SPS – Santé des soignants
+description: Analyse et recommandations pour la prévention des risques professionnels des soignants
+---
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
 
