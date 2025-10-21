@@ -40,8 +40,8 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 ## 🔗 Accès au projet
 - Visualisation interactive sur GitHub  :
 - <p align="center">
-  <a href=" https://github.com/Antoineb-data/Sante-des-soignants" style="background-color:#24292e; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
-    💻 Voir le code sur GitHub
+  <a href=" https://github.com/Antoineb-data/Sante-des-soignants" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+    💻 Voir le projet sur GitHub
   </a>
 </p>
 
