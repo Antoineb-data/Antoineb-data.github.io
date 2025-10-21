@@ -42,9 +42,9 @@ Visualisation :Power BI
 Les écarts d’HALE entre pays européens atteignent environ 10 années
 L'espérance de vie diminue après 2019
     
-<img width="2058" height="1026" alt="PBI HALE LEB 1" src="https://github.com/user-attachments/assets/bd8f6409-541b-4a99-ad76-b1d7fe05ad19" />
+<img width="800" height="500" alt="PBI HALE LEB 1" src="https://github.com/user-attachments/assets/bd8f6409-541b-4a99-ad76-b1d7fe05ad19" />
 
-<img width="2061" height="1064" alt="PBI HALE LEB 2 france " src="https://github.com/user-attachments/assets/db1a4132-e7a2-4a82-8dba-f97d1e7ef2d7" />
+<img width="800" height="500" alt="PBI HALE LEB 2 france " src="https://github.com/user-attachments/assets/db1a4132-e7a2-4a82-8dba-f97d1e7ef2d7" />
 
 <img width="1036" height="278" alt="reco HALE" src="https://github.com/user-attachments/assets/76cc65d8-1e03-49ff-a848-c38208c4d42b" />
 
