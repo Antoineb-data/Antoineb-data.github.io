@@ -15,11 +15,13 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 - Format : source PDF, travail sous Excel
 
 ## 🛠️ Méthodologie
-| Étape | Outil / langage |
-|-------|----------------|
+
+| Étape | Outil / Langage |
+|:------|:----------------|
 | Préparation et nettoyage des données | **Excel** |
-| Exploration et visualisation | **powerpoint** |
+| Exploration et visualisation | **PowerPoint** |
 | Documentation et présentation | **Markdown**, **GitHub Pages** |
+
 
 ### Étapes clés
 1. Nettoyage et structuration des données hétérogènes  
