@@ -87,9 +87,7 @@ Ce projet illustre comment l’analyse des données en santé au travail peut :
 En tant que **kinésithérapeute du travail formé à la data**, cette analyse m’a permis de relier des indicateurs chiffrés à des réalités de terrain.
 ---
 
-<p align="center">
-  <i>Ce projet illustre ma capacité à combiner expertise terrain en santé au travail et compétences en data analyse pour produire des recommandations concrètes et actionnables.</i>
-</p>
+
 
 ---
 
