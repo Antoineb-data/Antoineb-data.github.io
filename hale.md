@@ -11,7 +11,8 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 
 - Comparer l’espérance de vie en bonne santé entre différents pays  
 - Identifier les facteurs influençant la santé globale  
-- Produire des visualisations claires et actionnables pour la santé publique  
+- Produire des visualisations claires et actionnables pour la santé publique
+<p align="center"> 
 <img width="350" height="180" alt="data hale img" src="https://github.com/user-attachments/assets/917004c4-20fc-419a-adbf-17058be99f50" />
 
 ## Contenu du projet
@@ -25,7 +26,8 @@ Cet indicateur, développé par l’OMS, combine mortalité et morbidité pour e
 
 ## Source de données
 Dataset issu de l'OMS 
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth
+
+**https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth**
 
 ## Methodologie
 1. Recherche des jeux de données (WHO/OMS).
@@ -40,12 +42,16 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-
 
 Visualisation :Power BI
 Les écarts d’HALE entre pays européens atteignent environ 10 années
-L'espérance de vie diminue après 2019
-    
+## L'espérance de vie et l'espérance de vie en bonne santé diminuent après 2019
+<p align="center">    
 <img width="800" height="500" alt="PBI HALE LEB 1" src="https://github.com/user-attachments/assets/bd8f6409-541b-4a99-ad76-b1d7fe05ad19" />
 
+## espérance de vie en bonne santé en France
+<p align="center">
 <img width="800" height="500" alt="PBI HALE LEB 2 france " src="https://github.com/user-attachments/assets/db1a4132-e7a2-4a82-8dba-f97d1e7ef2d7" />
 
+## Recommandations
+<p align="center">
 <img width="1036" height="278" alt="reco HALE" src="https://github.com/user-attachments/assets/76cc65d8-1e03-49ff-a848-c38208c4d42b" />
 
     
