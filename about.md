@@ -10,7 +10,7 @@
 <p align="center">
   Je suis Antoine, kinésithérapeute du travail et data analyst.
 Découvrez mes projets et ma démarche.
-
+</p>
 ---
 ## Santé Data prévention
 
@@ -23,13 +23,13 @@ Physiotherapist & Healthcare Data Analyst,
 Mettre mes compétences de terrain et de data au service de la prévention en santé - TMS / bien vieillir - et de l’amélioration des conditions de travail.
 
 ---
-🔹 Mes objectifs :
+## Mes objectifs :
+
+Contribuer à réduire les TMS et améliorer les conditions et la qualité de vie au travail
 ---
-🎯 Contribuer à réduire les TMS et améliorer les conditions et la qualité de vie au travail
+Eclairer les prises de décisions par des analyses de données claires et actionnables
 ---
-🎯 Éclairer les prises de décisions par des analyses de données claires et actionnables
----
-🎯 Développer des stratégies de prévention santé à impact positif grâce au levier de la data
+Développer des stratégies de prévention santé à impact positif grâce au levier de la data
 ---
 
 
