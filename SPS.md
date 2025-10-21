@@ -30,7 +30,7 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 ## 📈 Résultats
 - Identification des **temps de travail des professionnels de santé**
 - 
-<img width="1025" height="577" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/6a9c5a0b-2d94-49c5-aa04-4bdb0061c4f2" />
+<img width="1025" height="450" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/6a9c5a0b-2d94-49c5-aa04-4bdb0061c4f2" />
 
 ## 💡 Recommandations principales
 - Intégration des indicateurss de santé et conditions de travail pour la santé des soignants.
@@ -38,8 +38,13 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 -Projections sur la nécessaire mise en place d’outils de pilotage basés sur les données existantes
 
 ## 🔗 Accès au projet
-- Visualisation interactive sur GitHub Pages :
-- Code et analyses : 
+- Visualisation interactive sur GitHub  :
+- <p align="center">
+  <a href=" https://github.com/Antoineb-data/Sante-des-soignants" style="background-color:#24292e; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+    💻 Voir le code sur GitHub
+  </a>
+</p>
+
 
 ## 🏷️ Mots-clés
 Santé, Soignants, TMS, Ergonomie, Data Analyse, Power BI, Python, Excel, Prévention
