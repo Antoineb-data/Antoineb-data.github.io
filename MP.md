@@ -42,11 +42,15 @@ Ce projet s’inscrit dans une démarche de **prévention des risques profession
 
 ---
 ## Outils utilisés
-| Étape | Outil / langage |
-|:------|:----------------|
-| Préparation et nettoyage des données | **Python (Pandas)** / **Excel** |
-| Exploration et visualisation | **Power BI** |
-| Documentation et présentation | **Markdown / GitHub Pages** |
+## Pipeline du projet
+
+| Étape                         | Objectif                                      | Outil / langage                         |
+|:-------------------------------|:---------------------------------------------|:---------------------------------------|
+| **Collecte et préparation**     | Intégrer et nettoyer les données             | Python (Pandas) / Excel                 |
+| **Exploration et analyse**      | Identifier tendances et corrélations clés    | Python (Pandas, Matplotlib) / Power BI |
+| **Visualisation et reporting**  | Concevoir tableau de bord interactif         | Power BI                                |
+| **Documentation et diffusion**  | Structurer et publier le projet pour portfolio | Markdown / GitHub Pages                |
+
 ---
 
 
