@@ -11,6 +11,7 @@
   Je suis Antoine, kinésithérapeute du travail et data analyst.
 Découvrez mes projets et ma démarche.
 
+---
 ## Santé Data prévention
 
 Mon évolution professionnelle me porte a l’intersection de la santé, la prévention et la technologie:
