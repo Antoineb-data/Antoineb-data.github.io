@@ -12,6 +12,7 @@
 Découvrez mes projets et ma démarche.
 </p>
 ---
+
 ## Santé Data prévention
 
 Mon évolution professionnelle me porte a l’intersection de la santé, la prévention et la technologie:
