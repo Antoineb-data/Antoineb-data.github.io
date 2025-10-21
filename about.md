@@ -18,10 +18,11 @@ Mon évolution professionnelle me porte a l’intersection de la santé, la pré
 Kinésithérapeute du travail - Ergonomie & Data Analyste en santé
 Physiotherapist & Healthcare Data Analyst,
 
-
+---
 ## Orientation professionnelle :
 Mettre mes compétences de terrain et de data au service de la prévention en santé - TMS / bien vieillir - et de l’amélioration des conditions de travail.
 
+---
 🔹 Mes objectifs :
 ---
 🎯 Contribuer à réduire les TMS et améliorer les conditions et la qualité de vie au travail
