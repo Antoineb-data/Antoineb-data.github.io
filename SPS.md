@@ -1,3 +1,10 @@
+---
+layout: default
+title: Projet HALE
+---
+
+[Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
+
 # Mieux connaître les professionnels de santé
 
 <p align="center">
