@@ -4,6 +4,8 @@
   <img src="https://via.placeholder.com/200" alt="Santé des soignants" />
 </p>
 
+<img width="954" height="593" alt="Capture d’écran 2025-09-30 210001" src="https://github.com/user-attachments/assets/d8e4c3d3-fb7f-4419-af1a-6c4d7fd50aa9" />
+
 ## 🎯 Objectif du projet
 Analyser la santé des professionnels de santé et les conditions de travail pour identifier les risques et proposer des recommandations concrètes de prévention.  
 Ce projet vise à éclairer les décisions stratégiques et améliorer la qualité de vie au travail des soignants.
@@ -26,7 +28,9 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 4. Élaboration de recommandations actionnables pour les décideurs
 
 ## 📈 Résultats
-- Identification des **temps de travail des professionnels de santé**  
+- Identification des **temps de travail des professionnels de santé**
+- 
+<img width="1025" height="577" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/6a9c5a0b-2d94-49c5-aa04-4bdb0061c4f2" />
 
 ## 💡 Recommandations principales
 - Intégration des indicateurss de santé et conditions de travail pour la santé des soignants.
