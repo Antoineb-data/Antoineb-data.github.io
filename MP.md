@@ -12,7 +12,7 @@
 
 Analyse des **maladies professionnelles (MP)** en France afin de mieux comprendre les risques sectoriels et les pathologies les plus fréquentes.  
 Ce projet combine **données officielles**, **analyse statistique** et **visualisation** pour proposer des pistes d’action concrètes.
-
+Ce projet s’inscrit dans une démarche de **prévention des risques professionnels**, en mobilisant la data pour mieux comprendre les dynamiques de santé au travail.
 ---
 
 ## 🔍 Objectifs
@@ -27,16 +27,21 @@ Ce projet combine **données officielles**, **analyse statistique** et **visuali
 ## 🗂️ Sources de données
 
 - CNAM : **https://www.assurance-maladie.ameli.fr/etudes-et-donnees/mp-indicateurs-selon-age-sexe-profession-exposition**
+ - **Format :** fichiers CSV  
+- **Champ couvert :** France entière  
+- **Variables principales utilisées :** durée d'exposition, secteur d’activité, type de pathologie, nombre de cas reconnus,libelle syndrome CIM10, sexe, tranche d'âge, année.
 
 ---
 
 ## 🛠️ Méthodologie
 
 1. **Extraction et nettoyage** des données avec Python / Pandas.  
-2. **Analyse exploratoire** (statistiques descriptives, distribution des pathologies).  
-3. **Visualisation interactive** avec Power BI et Python (matrices de risques, graphiques par secteur).  
+2. **Analyse exploratoire** statistiques descriptives, distribution des pathologies.  
+3. **Visualisation interactive** avec Power BI et Python.  
 4. **Synthèse et recommandations** actionnables pour les décideurs en santé au travail.
 
+---
+## Outils utilisés
 ---
 
 ## 📈 Résultats clés
