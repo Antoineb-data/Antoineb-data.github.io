@@ -38,8 +38,9 @@ Ce projet vise à éclairer les décisions stratégiques et améliorer la qualit
 -Projections sur la nécessaire mise en place d’outils de pilotage basés sur les données existantes
 
 ## 🔗 Accès au projet
-- Visualisation interactive sur GitHub  :
-- <p align="center">
+- Visualisation sur GitHub  :
+  
+<p align="center">
   <a href=" https://github.com/Antoineb-data/Sante-des-soignants" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
     💻 Voir le projet sur GitHub
   </a>
