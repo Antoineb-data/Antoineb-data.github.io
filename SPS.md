@@ -1,6 +1,4 @@
----
-layout: default
-title: Projet HALE
+
 ---
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
