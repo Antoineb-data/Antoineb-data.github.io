@@ -28,14 +28,12 @@ Physiotherapist & Healthcare Data Analyst,
 Mettre mes compétences de terrain et de data au service de la prévention en santé - TMS / bien vieillir - et de l’amélioration des conditions de travail.
 
 ---
-## Mes objectifs :
+## Mes objectifs
 
-Contribuer à réduire les TMS et améliorer les conditions et la qualité de vie au travail
----
-Eclairer les prises de décisions par des analyses de données claires et actionnables
----
-Développer des stratégies de prévention santé à impact positif grâce au levier de la data
----
+- **Contribuer à la prévention des TMS** et améliorer les conditions de travail ainsi que la qualité de vie au travail.  
+- **Éclairer les décisions** grâce à des analyses de données claires et actionnables.  
+- **Développer des stratégies de prévention santé** à impact positif en mobilisant la data.
+
 
 
 
