@@ -14,7 +14,7 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 - Produire des visualisations claires et actionnables pour la santé publique
 <p align="center"> 
 <img width="350" height="180" alt="data hale img" src="https://github.com/user-attachments/assets/917004c4-20fc-419a-adbf-17058be99f50" />
-
+</p>
 ## Contenu du projet
 - Analyse statistique et traitement de données avec Python et Excel  
 - Visualisation des indicateurs via Power BI  
