@@ -50,6 +50,7 @@ Les écarts d’HALE entre pays européens atteignent environ 10 années
 <p align="center">
 <img width="800" height="500" alt="PBI HALE LEB 2 france " src="https://github.com/user-attachments/assets/db1a4132-e7a2-4a82-8dba-f97d1e7ef2d7" />
 </p>
+
 ## Recommandations
 
 
