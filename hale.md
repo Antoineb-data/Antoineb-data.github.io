@@ -54,15 +54,19 @@ Les écarts d’HALE entre pays européens atteignent environ 10 années
 ## Recommandations
 
 
-Les écarts observés ente l’espérance de vie et l'espérance de vie en bonne santé entre régions et catégories socioprofessionnelles appellent à une double approche : préventive et territoriale.
+Les écarts observés entre l’espérance de vie (LEB) et l’espérance de vie en bonne santé (HALE)  appellent une approche à la fois préventive et territoriale.
 
-Renforcer la prévention ciblée dans les territoires où les indicateurs de santé sont les plus dégradés, notamment via le dépistage, la promotion de l’activité physique et la lutte contre les facteurs de risque (tabac, obésité, précarité).
+**Renforcer la prévention ciblée**
+Déployer des actions adaptées dans les territoires où les indicateurs de santé sont les plus dégradés :
 
-Investir dans les déterminants sociaux de la santé (éducation, emploi, conditions de travail), qui influencent davantage l’espérance de vie en bonne santé que le seul accès aux soins.
+**Dépistage précoce**
+Promotion de l’activité physique et programmes d’éducation à la santé (en lien avec des dispositifs / exemple ICOPE – Integrated Care for Older People),
 
-Développer des observatoires locaux de la santé permettant un suivi régulier des indicateurs et l’évaluation des politiques publiques.
+**Lutte contre les principaux facteurs de risque : tabac, obésité, précarité.**
 
-Enfin, intégrer la donnée dans la décision publique : des tableaux de bord régionaux ou communaux pourraient aider les décideurs à identifier les priorités d’action et à mesurer les progrès dans le temps.
+**Agir sur les déterminants sociaux de la santé**
+Investir dans les leviers structurels — éducation, emploi, conditions de travail, environnement — qui influencent davantage l’espérance de vie en bonne santé que le seul accès aux soins.
+
 
 <p align="center">
 <img width="1036" height="278" alt="reco HALE" src="https://github.com/user-attachments/assets/76cc65d8-1e03-49ff-a848-c38208c4d42b" />
