@@ -5,10 +5,11 @@ description: Analyse et recommandations pour la prévention des risques professi
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
 
-# Mieux connaître les professionnels de santé
+# Mieux connaître les professionnels de santé - santé de ville 
 
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Santé des soignants" />
+ <img width="993" height="498" alt="1" src="https://github.com/user-attachments/assets/522de63d-d394-4658-861d-771b163269e2" />
+
 </p>
 
 <img width="954" height="593" alt="Capture d’écran 2025-09-30 210001" src="https://github.com/user-attachments/assets/d8e4c3d3-fb7f-4419-af1a-6c4d7fd50aa9" />
