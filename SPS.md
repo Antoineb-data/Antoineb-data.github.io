@@ -95,6 +95,17 @@ Sources du pdf : rapport sur la santé de soignants d'octobre 2023:
 Projet sous licence **MIT** – libre d’utilisation et de diffusion avec mention de l’auteur.
 
 ---
+## 📜 Lien vers le pdf
+
+<p align="center">
+  <a href="(https://github.com/Antoineb-data/Sante-des-soignants/blob/main/spsppt.pdf)" target="_blank" 
+     style="background-color:#0366d6; color:white; padding:10px 20px; 
+            text-decoration:none; border-radius:6px; font-weight:bold;">
+    📄 Télécharger le rapport PDF
+  </a>
+</p>  
+
+---  
 
 <p align="center">
   <a href="(https://github.com/Antoineb-data/Sante-des-soignants)" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
