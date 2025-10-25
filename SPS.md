@@ -93,3 +93,8 @@ title: Projet SPS – Santé des soignants
 description: Analyse et recommandations pour la prévention des risques professionnels des soignants
 ---
 
+<p align="center">
+  <a href="(https://github.com/Antoineb-data/Sante-des-soignants)" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
+    🚀 Voir le projet Santé des soignants sur GitHub
+  </a>
+</p>
