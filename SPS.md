@@ -36,7 +36,8 @@
 L’enjeu est d’**éclairer les décisions publiques et organisationnelles** par une approche data claire, factuelle et actionnable.  
 
 https://sante.gouv.fr/IMG/pdf/rapport_sante_des_professionnels_de_sante_.pdf
-<img width="993" height="498" alt="1" src="https://github.com/user-attachments/assets/a2e1101d-f6d2-4201-a295-707abf272381" />  
+<img width="993" height="498" alt="1" src="https://github.com/user-attachments/assets/62cc04b6-d855-4185-9812-6e17205fbe54" />
+
 
 
 
@@ -52,7 +53,7 @@ L'analyse de ce rapport disponible dans ce dépôt est un document PDF qui prés
 - Les données mobilisées  
 - Les analyses descriptives  
 - Les constats principaux  
-- Des pistes de réflexion pour la prévention 
+- Des pistes de réflexion pour la prévention   
 <img width="1025" height="577" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/bc83cd25-5b2d-4479-a1d8-4a9181a1c527" />
 
 ---
