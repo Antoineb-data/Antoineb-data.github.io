@@ -91,9 +91,6 @@ Sources du pdf : rapport sur la santé de soignants d'octobre 2023:
 Projet sous licence **MIT** – libre d’utilisation et de diffusion avec mention de l’auteur.
 
 ---
-title: Projet SPS – Santé des soignants
-description: Analyse et recommandations pour la prévention des risques professionnels des soignants
----
 
 <p align="center">
   <a href="(https://github.com/Antoineb-data/Sante-des-soignants)" target="_blank" style="background-color:#0366d6; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; font-weight:bold;">
