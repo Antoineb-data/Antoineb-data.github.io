@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projet HALE
+title: Projet HALE- Healthy life expectancy (HALE) at birth
 ---
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
