@@ -11,7 +11,7 @@ L’enjeu est d’**éclairer les décisions publiques et organisationnelles** p
 
 https://sante.gouv.fr/IMG/pdf/rapport_sante_des_professionnels_de_sante_.pdf
 <img width="993" height="498" alt="1" src="https://github.com/user-attachments/assets/a2e1101d-f6d2-4201-a295-707abf272381" />  
-<img width="1072" height="592" alt="Capture d’écran 2025-10-22 153031" src="https://github.com/user-attachments/assets/115286c5-dae9-44ed-bc37-dfb9421ccce5" />
+
 
 
 
@@ -62,7 +62,6 @@ Sources du pdf : rapport sur la santé de soignants d'octobre 2023:
 
 Projet sous licence **MIT** – libre d’utilisation et de diffusion avec mention de l’auteur.
 
-lien vers le pdf : https://github.com/Antoineb-data/Sante-des-soignants/blob/main/spsppt.pdf
 ---
 title: Projet SPS – Santé des soignants
 description: Analyse et recommandations pour la prévention des risques professionnels des soignants
