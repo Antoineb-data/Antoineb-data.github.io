@@ -3,10 +3,6 @@ layout: default
 title: La data au service de la santé et la prévention  
 ---
 
-[Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)  
-
----
-
 <div align="center" style="
   background-color:#f5f5f5;
   padding:12px 0;
