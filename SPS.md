@@ -56,7 +56,10 @@ L'analyse de ce rapport disponible dans ce dépôt est un document PDF qui prés
 - Les constats principaux  
 - Des pistes de réflexion pour la prévention  
   
-<img width="1025" height="577" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/bc83cd25-5b2d-4479-a1d8-4a9181a1c527" />
+##  Résultats
+<img width="1025" height="500" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/8f2912a0-9e8c-49c5-bdfb-00350e85d634" />
+
+<img width="1072" height="500" alt="Capture d’écran 2025-10-22 153031" src="https://github.com/user-attachments/assets/55cec8a1-3941-46d3-92dd-30585c10c100" />
 
 ---
 
