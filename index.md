@@ -1,9 +1,29 @@
 ---
 layout: default
-title: La data au service de la santé et la prévention! 
+title: La data au service de la santé et la prévention  
 ---
 
 [Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
+
+p align="center">
+  <style>
+    .navlink {
+      color: #2ecc71;
+      font-weight: bold;
+      text-decoration: none;
+      margin: 0 6px;
+      transition: color 0.2s ease;
+    }
+    .navlink:hover {
+      color: #27ae60;
+    }
+  </style>
+
+  <a href="/" class="navlink">Accueil</a> |
+  <a href="/about" class="navlink">À propos</a> |
+  <a href="/projects" class="navlink">Projets</a> |
+  <a href="/skills" class="navlink">Compétences</a>
+</p>
 
 # Bienvenue sur mon portfolio!
 
