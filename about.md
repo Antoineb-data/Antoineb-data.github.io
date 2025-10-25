@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Présentation  
+---
 <div align="center" style="
   background-color:#f5f5f5;
   padding:12px 0;
