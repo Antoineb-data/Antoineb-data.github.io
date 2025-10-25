@@ -36,9 +36,11 @@ title: La data au service de la santé et la prévention
 
 Je suis **Kinésithérapeute du travail & Data Analyste en santé et prévention / Bien vieillir**, spécialisé dans la **prévention des TMS** et l’**analyse des données en santé**.  
 
-👉 Ce site est mon **portfolio** : une vitrine des projets et de la démarche en data appliquée à la prévention en santé que je souhaite porter.  
-En tant que professionnel de santé j’observe combien les pathologies liées à l’activité professionnelle pèsent sur la santé des individus.
-C’est pourquoi je m’engage pour placer la prévention au cœur des stratégies d’amélioration des conditions de travail avec l' utilisation de la data comme levier.
+👉 Ce site est mon **portfolio** : une vitrine des projets et de la démarche en data appliquée à la prévention en santé que je souhaite porter.    
+  
+**En tant que professionnel de santé j’observe combien les pathologies liées à l’activité professionnelle pèsent sur la santé des individus.**  
+  
+C’est pourquoi je m’engage pour placer la prévention au cœur des stratégies d’amélioration des conditions de travail avec l' utilisation de la data comme levier.  
 
 ---
 
