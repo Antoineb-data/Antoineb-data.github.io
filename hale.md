@@ -23,13 +23,14 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 ## Contexte 
 - L’espérance de vie progresse, mais pas forcément en bonne santé.
 Cet indicateur, développé par l’OMS, combine mortalité et morbidité pour estimer la durée de vie passée sans incapacité majeure.
+<img width="1058" height="500" alt="hale contexte" src="https://github.com/user-attachments/assets/682d426e-3c1f-47e1-ac07-fe8cd83f92ea" />
 
-## Source de données
-Dataset issu de l'OMS 
 
-**https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth**
 
 ## Methodologie
+<img width="1061" height="500" alt="methodologie hale" src="https://github.com/user-attachments/assets/afb2d192-760c-4823-b8b2-702a806f624f" />
+
+
 1. Recherche des jeux de données (WHO/OMS).
 2. Nettoyage / harmonisation (Excel, powersuery, python).
 3. Analyse exploratoire: Python.
@@ -37,6 +38,11 @@ Dataset issu de l'OMS
 5. Export fichier pour exploration PowerBI
 6. Analyse  et Visualisation interactive sous Power BI
 
+## Source de données
+Dataset issu de l'OMS 
+
+**https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth**
+<img width="1061" height="500" alt="df hale" src="https://github.com/user-attachments/assets/ffebdb44-2089-4c77-bfe2-9d0a53ffac82" />
 
 ## Résultats clés
 
