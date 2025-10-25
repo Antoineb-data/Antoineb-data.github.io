@@ -12,9 +12,7 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 - Comparer l’espérance de vie en bonne santé entre différents pays  
 - Identifier les facteurs influençant la santé globale  
 - Produire des visualisations claires et actionnables pour la santé publique
-<p align="center"> 
-<img width="350" height="180" alt="data hale img" src="https://github.com/user-attachments/assets/917004c4-20fc-419a-adbf-17058be99f50" />
-</p>
+
 ## Contenu du projet
 - Analyse statistique et traitement de données avec Python et Excel  
 - Visualisation des indicateurs via Power BI  
@@ -25,6 +23,9 @@ Le projet **HALE (Healthy Life Expectancy)** est un projet d’analyse de donné
 Cet indicateur, développé par l’OMS, combine mortalité et morbidité pour estimer la durée de vie passée sans incapacité majeure.
 <img width="1058" height="500" alt="hale contexte" src="https://github.com/user-attachments/assets/682d426e-3c1f-47e1-ac07-fe8cd83f92ea" />
 
+## Axes de recherche
+
+<img width="1063" height="500" alt="axes de recherche " src="https://github.com/user-attachments/assets/3a52df5a-88b8-4184-8558-42dbcb02d6dd" />
 
 
 ## Methodologie
