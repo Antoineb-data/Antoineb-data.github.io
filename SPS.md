@@ -35,7 +35,8 @@
 
 L’enjeu est d’**éclairer les décisions publiques et organisationnelles** par une approche data claire, factuelle et actionnable.  
 
-https://sante.gouv.fr/IMG/pdf/rapport_sante_des_professionnels_de_sante_.pdf
+https://sante.gouv.fr/IMG/pdf/rapport_sante_des_professionnels_de_sante_.pdf  
+
 <img width="993" height="498" alt="1" src="https://github.com/user-attachments/assets/62cc04b6-d855-4185-9812-6e17205fbe54" />
 
 
