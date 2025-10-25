@@ -54,7 +54,8 @@ L'analyse de ce rapport disponible dans ce dépôt est un document PDF qui prés
 - Les données mobilisées  
 - Les analyses descriptives  
 - Les constats principaux  
-- Des pistes de réflexion pour la prévention   
+- Des pistes de réflexion pour la prévention
+-    
 <img width="1025" height="577" alt="Capture d’écran 2025-09-30 210315" src="https://github.com/user-attachments/assets/bc83cd25-5b2d-4479-a1d8-4a9181a1c527" />
 
 ---
