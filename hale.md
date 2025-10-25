@@ -3,7 +3,33 @@ layout: default
 title: Projet HALE- Healthy life expectancy (HALE) at birth
 ---
 
-[Accueil](/) | [À propos](/about) | [Projets](/projects) | [Compétences](/skills)
+<div align="center" style="
+  background-color:#f5f5f5;
+  padding:12px 0;
+  border-radius:10px;
+  font-family:Arial, sans-serif;
+  box-shadow:0 2px 6px rgba(0,0,0,0.1);
+">
+  <style>
+    .navlink {
+      color: #2ecc71;
+      font-weight: bold;
+      text-decoration: none;
+      margin: 0 10px;
+      transition: color 0.2s ease, transform 0.2s ease;
+    }
+    .navlink:hover {
+      color: #27ae60;
+      transform: scale(1.05);
+    }
+  </style>
+
+  <a href="/" class="navlink">🏠 Accueil</a> |
+  <a href="/about" class="navlink">👤 À propos</a> |
+  <a href="/projects" class="navlink">📊 Projets</a> |
+  <a href="/skills" class="navlink">🧠 Compétences</a>
+</div>
+
 
 # Projet HALE
 
